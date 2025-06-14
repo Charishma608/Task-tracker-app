@@ -12,20 +12,20 @@
 ```bash
 task-tracker/
 ├── public/
-│   └── index.html
 ├── src/
 │   ├── components/
+│   │   ├── layout/
+│   │   ├── pages/
 │   │   ├── TaskForm.js
 │   │   ├── TaskItem.js
 │   │   └── TaskList.js
-│   ├── styles/               
+│   ├── styles/
 │   ├── utils/
-│   │   └── date.js
-│   ├── App.js
 │   ├── App.css
+│   ├── App.js
 │   ├── App.test.js
-│   ├── index.js
 │   ├── index.css
+│   ├── index.js
 │   ├── logo.svg
 │   ├── reportWebVitals.js
 │   └── setupTests.js
