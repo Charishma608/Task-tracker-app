@@ -9,7 +9,7 @@
 - npm or yarn or pnpm
 
 ### Project Structure
-
+```bash
 task-tracker/
 ├── public/
 │   └── index.html
@@ -32,7 +32,7 @@ task-tracker/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 ### Installation
 
 1. Clone this repository:
@@ -60,6 +60,6 @@ pnpm dev
 ```
 
 4. Open your browser and visit `http://localhost:port`
-5. Live deployed link: `https://task-tracker-app-six-sigma.vercel.app/`
+5. Live deployed link: [LIVE SITE!!](https://task-tracker-app-six-sigma.vercel.app/)
  ![image](https://github.com/user-attachments/assets/ec58dc31-f200-494a-a46b-10a2ae502f23)
 
